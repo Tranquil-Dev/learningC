@@ -21,18 +21,24 @@ int main()
         // printf("sum = %d", sum);
 
     // // Declaring multiple variables
-        // int a = 9 , b = 44 , c = 10;
+        int a = 9 , b = 44 , c = 10;
         // printf("%d", a+b+c);
 
     // // Operators , most are similar to js
         // Sizeof operator
-        int num = 9;
-        char letter = 'j';
-        float dec = 9.8;
+        // int num = 9;
+        // char letter = 'j';
+        // float dec = 9.8;
 
-        printf("%lu", sizeof(num));
+        // printf("%lu", sizeof(num));
 
+    // // If...Else
 
+    if (a>b){
+        printf("%i is greater than %i",a,b);
+    }else{
+        printf("%i is greater than %i",b,a);
+    }
 
 
 
