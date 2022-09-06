@@ -24,9 +24,13 @@ int main()
         // int a = 9 , b = 44 , c = 10;
         // printf("%d", a+b+c);
 
-    // // 
-    double num = 0.8888888;
-    printf("%f", num);
+    // // Operators , most are similar to js
+        // Sizeof operator
+        int num = 9;
+        char letter = 'j';
+        float dec = 9.8;
+
+        printf("%lu", sizeof(num));
 
 
 
