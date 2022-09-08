@@ -34,15 +34,18 @@ int main()
 
     // // If...Else
 
-    if (a>b){
-        printf("%i is greater than %i",a,b);
-    }else{
-        printf("%i is greater than %i",b,a);
-    }
+    // if (a>b){
+    //     printf("%i is greater than %i",a,b);
+    // }else{
+    //     printf("%i is greater than %i",b,a);
+    // }
 
 
-
-
+    // // type casting
+    float f;
+    int i= 3;
+    f = (float) i;
+    printf("%f",f);
 
 
 
