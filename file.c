@@ -81,14 +81,20 @@ int main()
 
     // printf("Bitwise OR operation : %d", a|b);
 
+
     // //sum of 2 integers
-    int i,j;
+    // int i,j;
 
-    printf("Enter an integer: ");
-    scanf("%d%d", &i, &j);
-    printf("The integers sum is %d", i+j);
+    // printf("Enter an integer: ");
+    // scanf("%d%d", &i, &j);
+    // printf("The integers sum is %d", i+j);
 
+    // // multiply 2 floating point numbers
+    float a,b;
 
+    printf ("Enter a float: ");
+    scanf ("%f%f", &a, &b);
+    printf("The product of 2 floating point number is %.4f", a*b);
 
 
     return 0;
