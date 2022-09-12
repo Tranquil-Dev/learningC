@@ -21,7 +21,7 @@ int main()
         // printf("sum = %d", sum);
 
     // // Declaring multiple variables
-        int a = 9 , b = 44 , c = 10;
+        // int a = 9 , b = 44 , c = 10;
         // printf("%d", a+b+c);
 
     // // Operators , most are similar to js
@@ -42,18 +42,26 @@ int main()
 
 
     // // type casting
-    float f;
-    int i= 3;
-    f = (float) i;
-    printf("%f",f);
+    // float f;
+    // int i= 3;
+    // f = (float) i;
+    // printf("%f",f);
+
+    // //scanf
+    //  char c;
+    //  int i;
+
+    //  scanf("%c %d",c,i);
+    //  printf("My name is %c age is %d",c,i);
+
+    
+    // int testint;
+    // printf("Enter an integer number: ");
+    // scanf("%d", &testint);
+    // printf("The integer number entered is %d", testint);
 
 
-
-
-
-
-
-
+    
 
 
 
