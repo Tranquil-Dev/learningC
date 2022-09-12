@@ -81,7 +81,12 @@ int main()
 
     // printf("Bitwise OR operation : %d", a|b);
 
-    
+    // //sum of 2 integers
+    int i,j;
+
+    printf("Enter an integer: ");
+    scanf("%d%d", &i, &j);
+    printf("The integers sum is %d", i+j);
 
 
 
