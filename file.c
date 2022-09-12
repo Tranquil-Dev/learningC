@@ -60,11 +60,28 @@ int main()
     // scanf("%d", &testint);
     // printf("The integer number entered is %d", testint);
 
+    // //to check ASCII value
+    // char chr;
+    // printf("Enter a character: ");
+    // scanf("%c", &chr);
+
+    // printf("ASCII value = %d", chr);
+
+    // // bitwise and
+    // int a,b;
+    // a = 12;
+    // b = 25;
+
+    // printf("Bitwise And operation : %d\n", a&b);
+    
+    // // // Bitwise or
+
+    // a = 12;
+    // b = 25;
+
+    // printf("Bitwise OR operation : %d", a|b);
 
     
-
-
-
 
 
 
